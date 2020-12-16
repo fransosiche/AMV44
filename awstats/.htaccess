@@ -1,0 +1,4 @@
+AuthName "amv44.fr statistics"
+AuthType Basic
+AuthUserFile /home/amv44/.awstats-htpasswd
+require valid-user

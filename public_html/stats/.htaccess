@@ -1,0 +1,7 @@
+AuthName "amv44.fr statistics"
+AuthType Basic
+AuthUserFile /home/amv44/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

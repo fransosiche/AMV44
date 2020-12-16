@@ -1,0 +1,89 @@
+Return-Path: <>
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on vps555182.ovh.net
+X-Spam-Level: 
+X-Spam-Status: No, score=0.0 required=5.0 tests=HTML_MESSAGE,NO_RELAYS,
+	URIBL_BLOCKED autolearn=ham autolearn_force=no version=3.4.2
+X-Original-To: amv44@vps555182.ovh.net
+Delivered-To: amv44@vps555182.ovh.net
+Received: by vps555182.ovh.net (Postfix)
+	id 11954605CC; Mon, 11 Mar 2019 16:28:06 +0100 (CET)
+Date: Mon, 11 Mar 2019 16:28:06 +0100 (CET)
+From: MAILER-DAEMON@vps555182.ovh.net (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: amv44@vps555182.ovh.net
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="F376E605C4.1552318086/vps555182.ovh.net"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20190311152806.11954605CC@vps555182.ovh.net>
+
+This is a MIME-encapsulated message.
+
+--F376E605C4.1552318086/vps555182.ovh.net
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host vps555182.ovh.net.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<contact@amv44.fr>: User unknown in virtual alias table
+
+--F376E605C4.1552318086/vps555182.ovh.net
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps555182.ovh.net
+X-Postfix-Queue-ID: F376E605C4
+X-Postfix-Sender: rfc822; amv44@vps555182.ovh.net
+Arrival-Date: Mon, 11 Mar 2019 16:28:05 +0100 (CET)
+
+Final-Recipient: rfc822; contact@amv44.fr
+Original-Recipient: rfc822;contact@amv44.fr
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; User unknown in virtual alias table
+
+--F376E605C4.1552318086/vps555182.ovh.net
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <amv44@vps555182.ovh.net>
+Received: by vps555182.ovh.net (Postfix, from userid 1001)
+	id F376E605C4; Mon, 11 Mar 2019 16:28:05 +0100 (CET)
+To: contact@amv44.fr
+Subject: Prise de contact via amv44.fr
+X-PHP-Originating-Script: 0:mail.php
+From: ludovicretif@hotmail.fr
+Reply-To: ludovicretif@hotmail.fr
+X-Mailer: PHP/7.0.33-0+deb9u1MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+Message-Id: <20190311152805.F376E605C4@vps555182.ovh.net>
+Date: Mon, 11 Mar 2019 16:28:05 +0100 (CET)
+
+Nom du contact : Rétif<br><br>Email du contact : ludovicretif@hotmail.fr<br><br>NumÃ©ro de tÃ©lÃ©phone du contact : 0684677083<br><br>Sujet du message : <br><br>Message : Bonjour,
+
+Futurs propriétaire d'une maison des années 50 à Rezé, nous souhaiterions avoir une proposition de devis pour la rénovation de toutes les ouvertures + isolation par l’extérieur.
+
+Disponible sur place demain dès 13h, ou a un autre moment dans la semaine. (midi ou fin d'après-midi)N'hésitez pas à nous contacter par mail ou par telephone au 06 84 67 70 83 ou 06 75 54 27 89
+
+Au plaisir de vous lire à ce sujet.
+
+Cordialement.
+
+Ludovic Rétif
+
+
+--F376E605C4.1552318086/vps555182.ovh.net--
+

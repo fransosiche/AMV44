@@ -1,0 +1,84 @@
+Return-Path: <>
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on vps555182.ovh.net
+X-Spam-Level: 
+X-Spam-Status: No, score=0.0 required=5.0 tests=HTML_MESSAGE,NO_RELAYS,
+	URIBL_BLOCKED autolearn=ham autolearn_force=no version=3.4.2
+X-Original-To: amv44@vps555182.ovh.net
+Delivered-To: amv44@vps555182.ovh.net
+Received: by vps555182.ovh.net (Postfix)
+	id 4164560610; Mon,  2 Sep 2019 18:58:46 +0200 (CEST)
+Date: Mon,  2 Sep 2019 18:58:46 +0200 (CEST)
+From: MAILER-DAEMON@vps555182.ovh.net (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: amv44@vps555182.ovh.net
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="F3FAA6060C.1567443526/vps555182.ovh.net"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20190902165846.4164560610@vps555182.ovh.net>
+
+This is a MIME-encapsulated message.
+
+--F3FAA6060C.1567443526/vps555182.ovh.net
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host vps555182.ovh.net.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<contact@amv44.fr>: User unknown in virtual alias table
+
+--F3FAA6060C.1567443526/vps555182.ovh.net
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps555182.ovh.net
+X-Postfix-Queue-ID: F3FAA6060C
+X-Postfix-Sender: rfc822; amv44@vps555182.ovh.net
+Arrival-Date: Mon,  2 Sep 2019 18:58:45 +0200 (CEST)
+
+Final-Recipient: rfc822; contact@amv44.fr
+Original-Recipient: rfc822;contact@amv44.fr
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; User unknown in virtual alias table
+
+--F3FAA6060C.1567443526/vps555182.ovh.net
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <amv44@vps555182.ovh.net>
+Received: by vps555182.ovh.net (Postfix, from userid 1001)
+	id F3FAA6060C; Mon,  2 Sep 2019 18:58:45 +0200 (CEST)
+To: contact@amv44.fr
+Subject: Prise de contact via amv44.fr
+X-PHP-Originating-Script: 0:mail.php
+From: cecile.dupe@wanadoo.fr
+Reply-To: cecile.dupe@wanadoo.fr
+X-Mailer: PHP/7.0.33-0+deb9u1MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+Message-Id: <20190902165845.F3FAA6060C@vps555182.ovh.net>
+Date: Mon,  2 Sep 2019 18:58:45 +0200 (CEST)
+
+Nom du contact : DUPE<br><br>Email du contact : cecile.dupe@wanadoo.fr<br><br>Numéro de téléphone du contact : 0623800387<br><br>Sujet du message : <br><br>Message : bonjour,
+J'aurai voulu faire faire des portes de placard dans un dressing sous pente.
+Pourriez vous me faire une estimation?
+Merci de votre r�ponse
+Cdt
+Mme DUPE
+Mme DUPE
+
+--F3FAA6060C.1567443526/vps555182.ovh.net--
+

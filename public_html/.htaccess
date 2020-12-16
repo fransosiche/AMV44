@@ -1,0 +1,24 @@
+#permet aux navigateurs de se souvenir qu'il doit passer en https pour votre site (HSTS)
+<IfModule mod_headers.c>
+Header set Strict-Transport-Security "max-age=16006000; includeSubDomains; preload"
+</IfModule>
+
+#force la redirection en HTTPS
+RewriteEngine on
+RewriteCond %{SERVER_PORT} 80 [OR]
+RewriteCond %{HTTP_HOST}  ^www\.amv44.\fr$ [NC]
+RewriteRule ^(.*) https://amv44.fr/$1 [QSA,L,R=301]
+
+
+ErrorDocument 400 https://amv44.fr/erreur-404.php
+ErrorDocument 401 https://amv44.fr/erreur-404.php
+ErrorDocument 402 https://amv44.fr/erreur-404.php
+ErrorDocument 403 https://amv44.fr/erreur-404.php
+ErrorDocument 404 https://amv44.fr/erreur-404.php
+ErrorDocument 405 https://amv44.fr/erreur-404.php
+ErrorDocument 500 https://amv44.fr/erreur-404.php
+ErrorDocument 501 https://amv44.fr/erreur-404.php
+ErrorDocument 502 https://amv44.fr/erreur-404.php
+ErrorDocument 503 https://amv44.fr/erreur-404.php
+ErrorDocument 504 https://amv44.fr/erreur-404.php
+ErrorDocument 505 https://amv44.fr/erreur-404.php

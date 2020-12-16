@@ -1,0 +1,82 @@
+Return-Path: <>
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on vps555182.ovh.net
+X-Spam-Level: 
+X-Spam-Status: No, score=0.0 required=5.0 tests=HTML_MESSAGE,NO_RELAYS,
+	URIBL_BLOCKED autolearn=ham autolearn_force=no version=3.4.2
+X-Original-To: amv44@vps555182.ovh.net
+Delivered-To: amv44@vps555182.ovh.net
+Received: by vps555182.ovh.net (Postfix)
+	id 09376605F3; Mon, 13 Jan 2020 14:30:37 +0100 (CET)
+Date: Mon, 13 Jan 2020 14:30:37 +0100 (CET)
+From: MAILER-DAEMON@vps555182.ovh.net (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: amv44@vps555182.ovh.net
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0156F605F1.1578922237/vps555182.ovh.net"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20200113133037.09376605F3@vps555182.ovh.net>
+
+This is a MIME-encapsulated message.
+
+--0156F605F1.1578922237/vps555182.ovh.net
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host vps555182.ovh.net.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<contact@amv44.fr>: User unknown in virtual alias table
+
+--0156F605F1.1578922237/vps555182.ovh.net
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vps555182.ovh.net
+X-Postfix-Queue-ID: 0156F605F1
+X-Postfix-Sender: rfc822; amv44@vps555182.ovh.net
+Arrival-Date: Mon, 13 Jan 2020 14:30:36 +0100 (CET)
+
+Final-Recipient: rfc822; contact@amv44.fr
+Original-Recipient: rfc822;contact@amv44.fr
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; User unknown in virtual alias table
+
+--0156F605F1.1578922237/vps555182.ovh.net
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <amv44@vps555182.ovh.net>
+Received: by vps555182.ovh.net (Postfix, from userid 1001)
+	id 0156F605F1; Mon, 13 Jan 2020 14:30:36 +0100 (CET)
+To: contact@amv44.fr
+Subject: Prise de contact via amv44.fr
+X-PHP-Originating-Script: 0:mail.php
+From: courrierchris@hotmail.com
+Reply-To: courrierchris@hotmail.com
+X-Mailer: PHP/7.0.33-0+deb9u1MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+Message-Id: <20200113133037.0156F605F1@vps555182.ovh.net>
+Date: Mon, 13 Jan 2020 14:30:36 +0100 (CET)
+
+Nom du contact : BUSSY Christophe<br><br>Email du contact : courrierchris@hotmail.com<br><br>NumÃ©ro de tÃ©lÃ©phone du contact : 0671104696<br><br>Sujet du message : <br><br>Message : Bonjour à toutes et tous,
+J'aurais souhaité obtenir un devis afin de budgéter la suppression d'une cheminée puis l'habillement du mur ainsi libéré avec un système de bibliothèque briques+bois intégrant des emplacements pour des enceintes et un téléviseur.
+J'habite au 3 Belleville à Château Thébaud et mon numéro de téléphone est le 06 71 10 46 96.
+D'avance merci pour votre aide.
+Christophe BUSSY
+
+--0156F605F1.1578922237/vps555182.ovh.net--
+

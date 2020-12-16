@@ -1,0 +1,26 @@
+Return-Path: <webmin@vps555182.ovh.net>
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on vps555182.ovh.net
+X-Spam-Level: 
+X-Spam-Status: No, score=0.0 required=5.0 tests=NO_RELAYS,URIBL_BLOCKED
+	autolearn=ham autolearn_force=no version=3.4.2
+X-Original-To: amv44@amv44.fr
+Delivered-To: amv44@vps555182.ovh.net
+Received: by vps555182.ovh.net (Postfix, from userid 0)
+	id 2096B605D6; Sat,  6 Apr 2019 13:04:22 +0200 (CEST)
+From: webmin@vps555182.ovh.net
+To: amv44@amv44.fr
+Subject: Let's Encrypt certificate renewal complete
+Date: Sat, 06 Apr 2019 13:04:22 +0200 (CEST)
+Message-Id: <1554548662.11722.1@vps555182.ovh.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bound1554548662"
+
+This is a multi-part message in MIME format.
+
+--bound1554548662
+Content-type: text/plain
+
+A new certificate was successfully requested from Let's Encrypt, and installed for amv44.fr.
+
+--bound1554548662--
+

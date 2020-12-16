@@ -1,0 +1,18 @@
+#permet aux navigateurs de se souvenir qu'il doit passer en https pour votre site (HSTS)
+<IfModule mod_headers.c>
+Header set Strict-Transport-Security "max-age=16006000; includeSubDomains; preload"
+</IfModule>
+#
+
+ErrorDocument 400 https://cars-hunter.com/index_404.php
+ErrorDocument 401 /index_404.php
+ErrorDocument 402 https://cars-hunter.com/index_404.php
+ErrorDocument 403 https://cars-hunter.com/index_404.php
+ErrorDocument 404 https://cars-hunter.com/index_404.php
+ErrorDocument 405 https://cars-hunter.com/index_404.php
+ErrorDocument 500 https://cars-hunter.com/index_404.php
+ErrorDocument 501 https://cars-hunter.com/index_404.php
+ErrorDocument 502 https://cars-hunter.com/index_404.php
+ErrorDocument 503 https://cars-hunter.com/index_404.php
+ErrorDocument 504 https://cars-hunter.com/index_404.php
+ErrorDocument 505 https://cars-hunter.com/index_404.php
